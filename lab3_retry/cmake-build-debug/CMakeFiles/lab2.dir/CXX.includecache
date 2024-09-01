@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/CLionProjects/lab3_retry/Tests/test-mutable-list-sequence.cpp
+assert.h
+-
+test-mutable-list-sequence.h
+C:/Users/1/CLionProjects/lab3_retry/Tests/test-mutable-list-sequence.h
+../mutable-list-sequence.h
+C:/Users/1/CLionProjects/lab3_retry/mutable-list-sequence.h
+../linked-list.h
+C:/Users/1/CLionProjects/lab3_retry/linked-list.h
+
+C:/Users/1/CLionProjects/lab3_retry/Tests/test-mutable-list-sequence.h
+
+C:/Users/1/CLionProjects/lab3_retry/linked-list.h
+iostream
+-
+
+C:/Users/1/CLionProjects/lab3_retry/mutable-list-sequence.h
+iostream
+-
+mutable-sequence.h
+C:/Users/1/CLionProjects/lab3_retry/mutable-sequence.h
+linked-list.h
+C:/Users/1/CLionProjects/lab3_retry/linked-list.h
+
+C:/Users/1/CLionProjects/lab3_retry/mutable-sequence.h
+
